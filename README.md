@@ -43,3 +43,11 @@
 </p>
 
 ---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nithishreddyyyy&theme=dracula&no-frame=true&column=4"/>
+</p>
+
+---
