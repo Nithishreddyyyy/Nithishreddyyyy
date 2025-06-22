@@ -28,3 +28,11 @@
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Nithishreddyyyy&show_icons=true&hide=contribs&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
