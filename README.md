@@ -36,3 +36,10 @@
 </p>
 
 ---
+### 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithishreddyyyy&layout=compact&theme=tokyonight&hide=c%2B%2B" alt="Top Languages" />
+</p>
+
+---
