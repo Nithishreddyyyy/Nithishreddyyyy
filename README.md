@@ -9,3 +9,10 @@
 
 ---
 
+### 🧠 About Me
+- 🔭 Currently working on: **Health apps, Faculty Systems, AI-integrated projects**
+- 🌱 Learning: **React Native, Gemini APIs, AI for real-world use cases**
+- 🏆 Winner: **Medical Track – Advaya Hackathon 2025**
+- 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/nithish-reddy-90a648227/)
+
+---
