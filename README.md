@@ -51,3 +51,13 @@
 </p>
 
 ---
+
+
+### 📫 Reach Me At
+
+<p>
+  <b>📧 Gmail:</b> <a href="mailto:nithishreddyb2@gmail.com">nithishreddyb2@gmail.com</a><br>
+  <b>💼 LinkedIn:</b> <a href="https://www.linkedin.com/in/nithish-reddy-90a648227/">linkedin.com/in/nithish-reddy-90a648227</a>
+</p>
+
+---
