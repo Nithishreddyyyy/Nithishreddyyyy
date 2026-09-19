@@ -4,19 +4,6 @@
 AI/ML Engineer • Full-Stack Developer • Computer Vision Enthusiast
 </h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,swift,pytorch,opencv,fastapi,flask,nextjs,react,mysql,mongodb,redis,aws,docker,kubernetes,jenkins,linux,git,github" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nithish-reddy-90a648227/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nithishreddyb2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 🧠 About Me
