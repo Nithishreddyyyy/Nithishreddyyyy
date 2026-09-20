@@ -101,14 +101,7 @@ AI Agents &bull; RAG Systems &bull; Vector Databases &bull; LLM Evaluation &bull
 
 ## GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nithishreddyyyy&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Nithish's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithishreddyyyy&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Nithishreddyyyy&theme=dark&hide_border=true" alt="GitHub streak"/>
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nithishreddyyyy&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=Nithishreddyyyy&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
 
 ---
 
