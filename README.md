@@ -17,6 +17,12 @@ Final-year B.E. (Information Science and Engineering) student, Ramaiah Institute
 
 ---
 
+## GitHub Stats
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nithishreddyyyy&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=Nithishreddyyyy&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
+
+---
+
 ## About
 
 Final-year Information Science and Engineering student at Ramaiah Institute of Technology, Bangalore (CGPA: 8.57), graduating in 2027. Currently serving as Student Placement Coordinator and pursuing internships and campus placements for SDE and AI/ML Developer roles.
@@ -96,12 +102,6 @@ AWS (EC2, S3, RDS, EKS, ECS) &bull; Docker &bull; Kubernetes &bull; Jenkins &bul
 ## Currently Exploring
 
 AI Agents &bull; RAG Systems &bull; Vector Databases &bull; LLM Evaluation &bull; Distributed Systems &bull; Cloud Architecture
-
----
-
-## GitHub Stats
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nithishreddyyyy&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=Nithishreddyyyy&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
 
 ---
 
