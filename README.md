@@ -1,6 +1,6 @@
 <h1 align="center">Nithish Reddy</h1>
 
-<h3 align="center">AI / ML Engineer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Computer Vision</h3>
+<h3 align="center">AI / ML Engineer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Computer Vision &nbsp;|&nbsp; Open Source Development</h3>
 
 <p align="center">
 Final-year B.E. (Information Science and Engineering) student, Ramaiah Institute of Technology, Bangalore
